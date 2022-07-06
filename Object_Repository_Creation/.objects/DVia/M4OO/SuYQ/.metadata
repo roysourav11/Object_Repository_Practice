@@ -1,0 +1,13 @@
+﻿{
+  "Id": "SuYQ_6uuaEm1emd8g--H0g",
+  "Reference": "-SD6VvvDq0qldznpeDiaOA/SuYQ_6uuaEm1emd8g--H0g",
+  "ParentRef": "-SD6VvvDq0qldznpeDiaOA/M4OOiTAgNUuZs0rJh9PqSQ",
+  "Name": "Chrome: Rpa Challenge",
+  "Description": "RPA Challenge Object Repository",
+  "Type": "Screen",
+  "Created": "2022-07-04T06:55:07.6460448Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-04T06:55:07.6460448Z"
+}

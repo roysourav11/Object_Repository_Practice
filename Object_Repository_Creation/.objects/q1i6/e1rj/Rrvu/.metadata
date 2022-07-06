@@ -1,0 +1,12 @@
+﻿{
+  "Id": "RrvuCf3HOky2_WD2KZLOLA",
+  "Reference": "-SD6VvvDq0qldznpeDiaOA/RrvuCf3HOky2_WD2KZLOLA",
+  "ParentRef": "-SD6VvvDq0qldznpeDiaOA/e1rjSpAwKkGsIlhdDcnZdA",
+  "Name": "Calculator",
+  "Type": "Screen",
+  "Created": "2022-07-04T06:33:47.8657929Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-07-04T06:33:47.8657929Z"
+}
